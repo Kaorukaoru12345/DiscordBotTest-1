@@ -20,6 +20,6 @@ client.on('messageCreate', (message) => {
 })
 
 
-client.login("Token"
+// client.login("Token" > uncomment and add token
 );
 
