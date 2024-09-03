@@ -20,6 +20,6 @@ client.on('messageCreate', (message) => {
 })
 
 
-client.login("MTI4MDI0ODcwOTE2NjEzNzQzNg.GRnPM7.Fhb-47qGKcfolyy7bxy37IPDvMg5cuPzTiluj0"
+client.login("Token"
 );
 
